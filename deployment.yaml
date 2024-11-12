@@ -6,7 +6,7 @@ name: mc-app
 labels:
 app: mc-app
 spec:
-replicas: 2
+replicas: 3
 selector:
 matchLabels:
 app: mc-app
